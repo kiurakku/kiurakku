@@ -1,0 +1,22 @@
+name: Profile Health
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  profile-check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Validate profile README
+        run: |
+          test -f README.md
+          grep -q "## Focus" README.md
+          grep -q "Featured repositories" README.md
+
+      - name: Security policy present
+        run: test -f SECURITY.md

@@ -1,0 +1,23 @@
+name: Profile / README
+description: Suggestion or problem with this profile README, badges, or automation
+title: "[profile] "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this for the **kiurakku/kiurakku** profile repository only. For bugs in other projects, open an issue in that repository.
+  - type: textarea
+    id: summary
+    attributes:
+      label: What do you want to change or fix?
+      description: Short summary (typo, broken link, badge, wording, etc.).
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details (optional)
+      description: Screenshots, expected vs actual, links.
+    validations:
+      required: false
