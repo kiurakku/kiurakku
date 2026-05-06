@@ -8,7 +8,18 @@
 [![Telegram](https://img.shields.io/badge/Telegram-@SyntacticSugar-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/SyntacticSugar)
 [![Email](https://img.shields.io/badge/Email-yanginero%40outlook.com-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:yanginero@outlook.com)
 
+[![Packages](https://img.shields.io/badge/Packages-kiurakku-1f6feb?style=flat-square&logo=github)](https://github.com/kiurakku?tab=packages)
+
 </div>
+
+### 📦 GitHub Packages
+
+Публічні артефакти для лаб і hardening — див. [**вкладку Packages**](https://github.com/kiurakku?tab=packages) на профілі та репо [**security-lab-toolkit**](https://github.com/kiurakku/security-lab-toolkit):
+
+| Тип | Що це | Як взяти |
+|-----|--------|----------|
+| **Container (GHCR)** | Легкий Alpine-shell для перевірок TLS/DNS/HTTP і Python `requests` | `docker pull ghcr.io/kiurakku/security-lab-toolkit:latest` |
+| **npm** | `@kiurakku/http-security-headers` — базова мапа security headers для API | `npm install @kiurakku/http-security-headers` (registry GitHub Packages, див. README репо) |
 
 ### 🌱 Про мене
 
