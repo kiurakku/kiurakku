@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img">
+  <title>IDA Pro</title>
+  <rect width="128" height="128" rx="18" fill="#000000"/>
+  <path fill="#FFFFFF" d="M64 22 92 42v44L64 106 36 86V42Z"/>
+  <path fill="#BDBDBD" d="M64 22v42L36 42V42l28-20Zm0 42v42l28-20V64L64 64Zm0 0 28-22V42l-28 20v22Z"/>
+  <path fill="#E0E0E0" d="M64 64 36 42v22l28 20Zm0 0 28-22V64L64 84Z"/>
+</svg>
