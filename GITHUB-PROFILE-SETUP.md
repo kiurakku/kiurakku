@@ -9,14 +9,14 @@
 
 ## Закріплені репозиторії (Pinned)
 
-Принцип **«менше — краще»**: залиш **4** репо, які продають вузьку спеціалізацію (**Malware Analyst / RE**), без форків і «шуму».
+Принцип **«менше — краще»**: залиш **4** публічні репо під **Malware Analyst / RE / security labs**:
 
-1. **`MalKit-Malware-Analysis-Reverse-Engineering-Toolkit`** — RE / malware-analysis tooling (Ghidra, x64dbg, docs).
-2. **`APT-SecureOps-Lab`** — лабораторні сценарії детекції, логи, відтворювані кроки (як контекст для blue side / hunting).
-3. **`Vulnerability-Dashboard`** (або твій Streamlit CVE-дашборд під такою назвою) — коли репо опубліковано; зараз на акаунті може ще не існувати — тоді тимчасово заміни на сильний **Go/C++** флагман.
-4. **`Polyglot-Microservices-Benchmark`** (або інший нативний **Go/C++** проєкт з чітким README).
+1. **`MalKit-Malware-Analysis-Reverse-Engineering-Toolkit`** — RE / malware-analysis tooling (binary profiler, labs, docs).
+2. **`Honeypot-Security-System`** — polyglot honeypot lab (Docker, observability, threat telemetry).
+3. **`llobster-pentest-ai`** — authorized web security testing (FastAPI + SPA, reports).
+4. **`security-lab-toolkit`** — GHCR lab shell + npm security headers.
 
-**GitHub:** Profile → **Customize your pins** → зніми зайве (Honeypot, ZenFlare, BOLA, FastLM тощо), залиш саме ці чотири.
+**GitHub:** Profile → **Customize your pins** → зніми все зайве, залиш ці чотири.
 
 ### Topics для MalKit (discoverability)
 
