@@ -22,7 +22,7 @@
   <img src="./assets/icons/ubiquiti.svg" width="48" height="48" alt="Ubiquiti" title="Ubiquiti" />
 </p>
 
-### 🌱 Про мене
+### 🫠 Про мене
 
 > 🦠 **Malware Analyst** — головний фокус: **статичний і динамічний аналіз** шкідливого ПЗ, **reverse engineering** бінарників, розбір **вірусів / троянів / лоадерів**, витяг **IOC**, YARA-правила та відтворювані **malware labs**.
 >
