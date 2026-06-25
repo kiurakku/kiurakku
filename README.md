@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f3a5f&height=150&section=header&text=kiurakku&fontSize=42&fontColor=58a6ff&desc=Cybersecurity%20%E2%80%94%20cloud%20%C2%B7%20vulns%20%C2%B7%20networks%20%C2%B7%20crypto%20%C2%B7%20binaries&descAlign=center&descSize=15&descColor=8b949e&animation=twinkling" alt="Header banner — nickname like Cloud9 title bar" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:3d1f1f&height=150&section=header&text=kiurakku&fontSize=42&fontColor=ff6b6b&desc=Malware%20Analyst%20%E2%80%94%20RE%20%C2%B7%20viruses%20%C2%B7%20binaries%20%C2%B7%20threat%20intel%20%C2%B7%20networks&descAlign=center&descSize=15&descColor=8b949e&animation=twinkling" alt="Header banner" width="100%" />
 </div>
 
 <div align="center">
@@ -12,20 +12,20 @@
 
 ### 🌱 Про мене
 
-> 🔐 **Кібербезпека** — головний фокус: хмарна та інфраструктурна безпека, **reverse engineering / malware analysis**, моделювання загроз і **доказові ланцюги** (логи, телеметрія, нормалізація сигналів).
+> 🦠 **Malware Analyst** — головний фокус: **статичний і динамічний аналіз** шкідливого ПЗ, **reverse engineering** бінарників, розбір **вірусів / троянів / лоадерів**, витяг **IOC**, YARA-правила та відтворювані **malware labs**.
 >
-> Я не позиціоную себе як DevOps-інженера: інфраструктура та CI для мене — **місце застосування контролів і перевірки гіпотез атаки/захисту**, а не самоціль.
+> Мережа та інфраструктура для мене — **контекст зараження і C2**: куди стукає семпл, як ховається трафік, що видно в PCAP і на периметрі (Shodan, сегментація, Ubiquiti/edge).
 >
 > **Мови, з якими найчастіше працюю:**  
-> ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 > ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+> ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 > ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-> ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+> ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logo=assemblyscript&logoColor=white)
 >
-> **Зараз найбільше цікавить:** **безпека хмар** (GCP / GKE, IAM, конфігурації, мережева та контейнерна **поверхня атак** (attack surface)), **вразливості та misconfig** (CVE-контекст, політики, ескалація привілеїв), **мережі** (сегментація, egress/ingress, зловмисний і підозрілий трафік), **шифрування в інфраструктурі** (TLS, ключі, секрети, цілісність і доступність даних), плюс **статичний і динамічний аналіз бінарників** і відтворювані **security labs**, щоб перевіряти гіпотези атаки й захисту.
+> **Зараз найбільше цікавить:** **unpacking / deobfuscation**, аналіз **PE/ELF** і shellcode, **Ghidra / IDA Pro** для RE, **динаміка** (sandbox, x64dbg, API-tracing), **threat intel** (Shodan, OSINT, IOC-кореляція), **мережевий слід** малварі (DNS, TLS, C2-патерни) і власні **tooling**-репозиторії під аналіз.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=920&lines=Cybersecurity+%7C+Cloud+%26+Kubernetes+threat+modeling;Reverse+Engineering+%7C+Malware+analysis+%26+tooling;Detection+%7C+log+evidence+%26+defensive+automation" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=FF6B6B&center=true&vCenter=true&width=920&lines=Malware+Analyst+%7C+static+%26+dynamic+analysis;Reverse+Engineering+%7C+Ghidra+%C2%B7+IDA+Pro+%C2%B7+x64dbg;Threat+intel+%7C+Shodan+%C2%B7+IOC+hunting+%C2%B7+network+forensics" alt="Typing animation" />
 </p>
 
 ### 🔭 Огляд
@@ -43,18 +43,25 @@
 ### 🛠️ Стек (орієнтир)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=gcp,jenkins,kubernetes&perline=3" alt="Google Cloud, Jenkins, Kubernetes — skillicons.dev" />
+  <img src="https://img.shields.io/badge/Ghidra-4A90A4?style=flat-square&logo=ghidra&logoColor=white" alt="Ghidra" />
+  <img src="https://img.shields.io/badge/IDA_Pro-000000?style=flat-square&logo=hex-rays&logoColor=white" alt="IDA Pro" />
+  <img src="https://img.shields.io/badge/Shodan-FF0000?style=flat-square&logo=shodan&logoColor=white" alt="Shodan" />
+  <img src="https://img.shields.io/badge/Ubiquiti-0559C9?style=flat-square&logo=ubiquiti&logoColor=white" alt="Ubiquiti" />
 </p>
 
-*GCP — хмарна безпека та hardening · Jenkins — CI/CD і перевірки в пайплайнах · Kubernetes — контейнерна поверхня атак, політики та runtime.*
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,linux,kali,bash&perline=6" alt="Python, C, C++, Linux, Kali, Bash — skillicons.dev" />
+</p>
+
+*Ghidra / IDA Pro — RE та дизасемблювання · Shodan — зовнішня поверхня атаки й OSINT · Ubiquiti — edge/мережа в лабораторних сценаріях · Python/C/C++ — скрипти, парсери, власні тули.*
 
 ---
 
 ### 🔎 Напрями роботи
 
-- **Хмарна безпека та вразливості** — misconfig, IAM/WIF, мережеві політики в кластерах, сканування, журнали й ланцюг доказів до BigQuery/SIEM-логіки.
-- **OWASP / API-ризики** — авторизація, BOLA/IDOR, сценарії зловживань.
-- **Reverse engineering** — статичний/динамічний аналіз, crackme/лаби, власні інструменти під аналіз.
-- **Детекція та «синя» сторона** — сигнали runtime, кореляція з інцидентами, відтворювані лабораторні сценарії.
+- **Malware analysis** — статика/динаміка, unpacking, YARA, sandbox, звіти з IOC і TTP.
+- **Reverse engineering** — crackme, лоадери, обфускація, власні інструменти (MalKit та подібні).
+- **Віруси та сімейства** — порівняння семплів, кластеризація, еволюція збірок, hunting у лабораторії.
+- **Мережа та threat intel** — C2/DNS/TLS у PCAP, Shodan/OSINT, кореляція з периметром і edge (Ubiquiti).
 
 *Актуальні репозиторії дивись у **Pinned** на профілі — тут без каталогу проєктів.*

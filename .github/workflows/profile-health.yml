@@ -15,8 +15,9 @@ jobs:
       - name: Validate profile README
         run: |
           test -f README.md
-          grep -q "## Focus" README.md
-          grep -q "Featured repositories" README.md
+          grep -q "Malware Analyst" README.md
+          grep -q "Напрями роботи" README.md
+          grep -q "Ghidra" README.md
 
       - name: Security policy present
         run: test -f SECURITY.md

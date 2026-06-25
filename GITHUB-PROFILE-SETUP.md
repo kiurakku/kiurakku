@@ -5,22 +5,22 @@
 ## Bio
 
 - Онови біо в **Settings → Profile** (або `gh auth refresh -h github.com -s user` і `gh api user -X PATCH -f bio="..."`).
-- Без фраз на кшталт «slow to respond». Краще: спеціалізація (RE, malware analysis, DevSecOps) + стек.
+- Без фраз на кшталт «slow to respond». Краще: спеціалізація (Malware Analyst, RE, threat intel) + стек.
 
 ## Закріплені репозиторії (Pinned)
 
-Принцип **«менше — краще»**: залиш **4** репо, які продають вузьку спеціалізацію (DevSecOps + RE), без форків і «шуму».
+Принцип **«менше — краще»**: залиш **4** репо, які продають вузьку спеціалізацію (**Malware Analyst / RE**), без форків і «шуму».
 
-1. **`APT-SecureOps-Lab`** — GCP/GKE, Falco, Trivy, BigQuery.
-2. **`MalKit-Malware-Analysis-Reverse-Engineering-Toolkit`** — RE / malware-analysis tooling.
+1. **`MalKit-Malware-Analysis-Reverse-Engineering-Toolkit`** — RE / malware-analysis tooling (Ghidra, x64dbg, docs).
+2. **`APT-SecureOps-Lab`** — лабораторні сценарії детекції, логи, відтворювані кроки (як контекст для blue side / hunting).
 3. **`Vulnerability-Dashboard`** (або твій Streamlit CVE-дашборд під такою назвою) — коли репо опубліковано; зараз на акаунті може ще не існувати — тоді тимчасово заміни на сильний **Go/C++** флагман.
 4. **`Polyglot-Microservices-Benchmark`** (або інший нативний **Go/C++** проєкт з чітким README).
 
 **GitHub:** Profile → **Customize your pins** → зніми зайве (Honeypot, ZenFlare, BOLA, FastLM тощо), залиш саме ці чотири.
 
-### Topics для APT (discoverability)
+### Topics для MalKit (discoverability)
 
-На **`APT-SecureOps-Lab`** варто тримати серед іншого: `cloud-security`, `gcp`, `kubernetes-security`, `falco`, `blue-teaming`, `trivy`, `bigquery`, `devsecops` (лиміт GitHub — 20 тегів на репо).
+На **`MalKit-Malware-Analysis-Reverse-Engineering-Toolkit`** варто тримати серед іншого: `malware-analysis`, `reverse-engineering`, `ghidra`, `yara`, `static-analysis`, `dynamic-analysis`, `threat-hunting`, `ioc`, `pe-format`, `x64dbg` (лиміт GitHub — 20 тегів на репо).
 
 ## Contribution graph
 
@@ -38,8 +38,8 @@
 
 | Репозиторій | Ідея для картинки |
 |---------------|-------------------|
-| **APT-SecureOps-Lab** | Експорт Mermaid / схема GKE → Trivy → BigQuery, або стилізований скрин Terraform/README |
-| **MalKit-Malware-Analysis-Reverse-Engineering-Toolkit** | Логотип-напис MalKit, стек RE (Ghidra/x64dbg), або фрагмент структури `docs/` |
+| **MalKit-Malware-Analysis-Reverse-Engineering-Toolkit** | Логотип-напис MalKit, стек RE (Ghidra/x64dbg/IDA), або фрагмент структури `docs/` |
+| **APT-SecureOps-Lab** | Схема ланцюга: семпл → логи → кореляція / детекція |
 
 Після збереження перевір прев’ю через «Copy link» і встав в чат — має підтягнутися твоя картинка, а не дефолтний GitHub.
 
@@ -49,13 +49,13 @@
 
 ## Маркетинг (поза GitHub)
 
-- Діліться лінками в тематичних чатах / r/ReverseEngineering тощо — це окремо від коду.
+- Діліться лінками в тематичних чатах / r/ReverseEngineering / r/Malware тощо — це окремо від коду.
 
 ## Bio (формулювання для 9+)
 
 Приклад позиціонування (без «slow to respond»):
 
-`DevSecOps | Cloud Security (GCP/GKE) | Reverse Engineering & malware-analysis tooling`
+`Malware Analyst | Reverse Engineering (Ghidra / IDA Pro) | Threat intel · Shodan · network forensics`
 
 Додай **LinkedIn** / блог у полі *Social accounts* профілю GitHub, якщо є.
 
