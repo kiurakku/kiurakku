@@ -1,6 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:3d1f1f&height=165&section=header&text=Cloud9%27s&fontSize=38&fontColor=ff6b6b&textAlignY=32&desc=Malware%20Analyst%20%E2%80%94%20RE%20%C2%B7%20viruses%20%C2%B7%20binaries%20%C2%B7%20threat%20intel&descAlign=center&descSize=14&descColor=8b949e&descOffset=14&animation=twinkling" alt="Header banner — Cloud9's" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:3d1f1f&height=130&section=header&text=Cloud9%27s&fontSize=42&fontColor=ff6b6b&textAlignY=40&animation=twinkling" alt="Cloud9's" width="100%" />
 </div>
+
+<p align="center">
+  <sub><b>Malware Analyst</b> — RE · viruses · binaries · threat intel</sub>
+</p>
 
 <div align="center">
 
