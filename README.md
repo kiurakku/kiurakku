@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <sub><b>Malware Analyst</b> — RE · viruses · binaries · threat intel</sub>
+  <sub><b>恶意软件分析师</b> — 逆向工程 · 病毒分析 · 二进制安全 · 威胁情报</sub>
 </p>
 
 <div align="center">
@@ -22,13 +22,13 @@
   <img src="./assets/icons/ubiquiti.svg" width="48" height="48" alt="Ubiquiti" title="Ubiquiti" />
 </p>
 
-### 🫠 Про мене
+### 🫠 关于我
 
-> 🦠 **Malware Analyst** — головний фокус: **статичний і динамічний аналіз** шкідливого ПЗ, **reverse engineering** бінарників, розбір **вірусів / троянів / лоадерів**, витяг **IOC**, YARA-правила та відтворювані **malware labs**.
+> 🦠 **高级恶意软件分析师** — 核心领域：**静态与动态研判**、恶意代码深谙、二进制程序**逆向工程**。专注于**病毒、木马及加载器（Loader）**的底层剖析，精准提取失陷特征码（**IOC**），编写 **YARA** 检测规则，并构建可复现的**恶意软件分析沙箱实验室**。
 >
-> Мене цікавлять **віруси та атаки** — як шкідник потрапляє в систему, закріплюється, краде дані й поширюється: stealers, ransomware, ботнети, черв'яки. **Ghidra** і **IDA Pro** — основні інструменти розбору; **Ubiquiti** — лабораторна мережа й периметр, де видно слід зараження та C2.
+> 深度痴迷于**计算机病毒与攻击链路**的演进机理 —— 涵盖恶意代码的初始归宿、持久化驻留、凭据窃取及横向移动。重点攻关窃密木马（Stealers）、勒索软件（Ransomware）、僵尸网络（Botnets）与蠕虫病毒。以 **Ghidra** 和 **IDA Pro** 为核心逆向利器；并依托 **Ubiquiti** 构建全栈实验室网络及边界防御，旨在捕获感染痕迹并复现命令与控制（C2）通信。
 >
-> **Зараз найбільше цікавить:** **віруси та вірусоподібна малвар**, **ланцюги атак** (фішинг → exploit → persistence → exfiltration), розбір **сімейств і збірок**, **unpacking / deobfuscation**, динаміка в sandbox (x64dbg, API-tracing) і власні **tooling**-репозиторії під полювання на загрози.
+> **当前技术聚焦：** **病毒及类病毒恶意软件的底层行为**、**全阶段攻击链**（钓鱼演练 → 漏洞利用 → 持久化维持 → 数据外发）、**家族样本变种与定向构建**剖析、**脱壳与去混淆（Unpacking / Deobfuscation）**。擅长基于沙箱及调试器（x64dbg、API 轨迹追踪）执行动态审计，并致力于编写自研型**威胁猎杀工具链**。
 
 <br/>
 
@@ -36,13 +36,13 @@
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=FF6B6B&center=true&vCenter=true&width=920&lines=Malware+Analyst+%7C+viruses+%26+attack+chains;Reverse+Engineering+%7C+Ghidra+%C2%B7+IDA+Pro+%C2%B7+x64dbg;Threat+hunting+%7C+IOC+%C2%B7+malware+families+%C2%B7+network+forensics" alt="Typing animation" />
 </p>
 
-### 🔭 Огляд
+### 🔭 战绩总览
 
-| GitHub stats | Streak |
+| GitHub 统计数据 | 连续贡献 |
 | :---: | :---: |
 | <img height="165" src="https://github-readme-stats.vercel.app/api?username=kiurakku&show_icons=true&theme=tokyonight&hide_border=true&hide_title=false&custom_title=Cloud9&rank_icon=github" alt="GitHub stats" /> | <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=kiurakku&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Contribution streak" /> |
 
-### 🏆 GitHub Trophy
+### 🏆 荣誉奖杯
 
 <p align="center">
   <img src="https://github-profile-trophy-omega.vercel.app/?username=kiurakku&theme=onedark&column=4&no-frame=true&margin-w=10&margin-h=10" alt="GitHub trophies" />
@@ -50,13 +50,13 @@
 
 ---
 
-### 🔎 Напрями роботи
+### 🔎 研究方向
 
-- **Віруси та атаки** — зараження, persistence, exfiltration, ransomware/stealers, полювання на сімейства.
-- **Malware analysis** — статика/динаміка, unpacking, YARA, sandbox, звіти з IOC і TTP.
-- **Reverse engineering** — crackme, лоадери, обфускація, власні інструменти (MalKit та подібні).
-- **Мережа та периметр** — C2/DNS/TLS у PCAP, кореляція IOC, лабораторний edge (Ubiquiti).
+- **病毒演训与攻击研判** — 专注于权限维持、数据外发、勒索/窃密木马追踪以及恶意软件家族的定向猎杀。
+- **恶意软件分析与研判** — 动静态高级研判、变种脱壳、YARA 规则编排、沙箱行为审计及 IOC/TTP 威胁报告产出。
+- **二进制逆向工程** — Crackme 破解、高级加载器设计、反混淆技术，以及自研安全工具（如 MalKit 等项目）的开发。
+- **网络取证与边界防御** — 剖析 PCAP 流量中的 C2/DNS/TLS 隐蔽信道，执行 IOC 关联性分析，并基于 Ubiquiti 部署实验室边界网关。
 
 <br/>
 
-*Актуальні репозиторії дивись у **Pinned** на профілі — тут без каталогу проєктів.*
+*最新开源项目及研究成果，请参阅个人主页的 **Pinned（置顶仓库）**。*
