@@ -15,9 +15,11 @@ jobs:
       - name: Validate profile README
         run: |
           test -f README.md
-          grep -q "Malware Analyst" README.md
-          grep -q "Напрями роботи" README.md
+          grep -q "恶意软件分析师\|Malware Analyst" README.md
+          grep -q "研究方向\|Напрями роботи" README.md
           grep -q "Ghidra" README.md
+          test -f assets/icons/shok-monitor.png
+          test -f assets/icons/umbrella-wallet.png
 
       - name: Security policy present
         run: test -f SECURITY.md
