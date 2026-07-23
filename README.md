@@ -14,16 +14,17 @@
 
 </div>
 
-<table align="center" cellpadding="0" cellspacing="0" border="0">
-  <tr>
-    <td align="center" valign="middle" width="80"><img src="./assets/icons/shok-icon.jpg" height="52" alt="Shok Monitor" /></td>
-    <td align="center" valign="middle" width="80"><img src="./assets/icons/umbrella-icon.svg" height="52" alt="Umbrella Wallet" /></td>
-    <td align="center" valign="middle" width="80"><img src="./assets/icons/granite-logo.svg" height="52" alt="Granite" /></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/icons/shok-icon.jpg" height="52" alt="Shok Monitor" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/icons/umbrella-wallet.png" height="52" alt="Umbrella Wallet" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/icons/granite.png" height="52" alt="Granite" />
+</p>
 
 <p align="center">
-  <sub><a href="https://github.com/kiurakku/shok-monitor"><b>Shok Monitor</b></a> · <a href="https://github.com/kiurakku/umbrella-wallet"><b>Umbrella Wallet</b></a> · <b>Granite</b> — 自有品牌与产品线：监控、钱包与开发平台，统一生态。</sub>
+  <b>Shok Monitor</b> · <b>Umbrella Wallet</b> · <b>Granite</b> — 自有品牌与产品线：监控、钱包与开发平台，统一生态。<br/>
+  <a href="https://github.com/kiurakku/shok-monitor">shok-monitor</a> · <a href="https://github.com/kiurakku/umbrella-wallet">umbrella-wallet</a>
 </p>
 
 ### 🫠 关于我
@@ -66,16 +67,15 @@
 
 ### 🛡️ 实验室与基础设施
 
-<table align="center" cellpadding="0" cellspacing="0" border="0">
-  <tr>
-    <td align="center" valign="middle" width="72"><img src="./assets/icons/tor-browser.svg" height="44" alt="Tor Browser" title="Tor Browser" /></td>
-    <td align="center" valign="middle" width="72"><img src="./assets/icons/ubiquiti.svg" height="44" alt="Ubiquiti" title="Ubiquiti" /></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/icons/tor-browser.svg" height="44" alt="Tor Browser" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/icons/ubiquiti.svg" height="44" alt="Ubiquiti" />
+</p>
 
 <p align="center">
-  <sub><b>Tor Browser</b> — 隔离场景、匿名信道验证与 malware-lab 中的 OPSEC 演练。<br/>
-  <b>Ubiquiti</b> — 实验室 edge、VLAN 与边界：实时捕获感染痕迹、DNS 与 C2 流量。</sub>
+  <b>Tor Browser</b> — 隔离场景、匿名信道验证与 malware-lab 中的 OPSEC 演练。<br/>
+  <b>Ubiquiti</b> — 实验室 edge、VLAN 与边界：实时捕获感染痕迹、DNS 与 C2 流量。
 </p>
 
 <br/>
