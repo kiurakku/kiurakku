@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:3d1f1f&height=130&section=header&text=Cloud9%27s&fontSize=42&fontColor=ff6b6b&textAlignY=40&animation=twinkling" alt="Cloud9's" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:3d1f1f&height=130&section=header&text=Cloud9%27s&fontSize=42&fontColor=ff6b6b&textAlignY=40&animation=twinkling" alt="the fear" width="100%" />
 </div>
 
 <p align="center">
