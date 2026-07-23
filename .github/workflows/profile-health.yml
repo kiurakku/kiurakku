@@ -20,6 +20,8 @@ jobs:
           grep -q "Ghidra" README.md
           test -f assets/icons/shok-monitor.png
           test -f assets/icons/umbrella-wallet.png
+          test -f assets/icons/granite.svg
+          test -f assets/icons/tor-browser.svg
 
       - name: Security policy present
         run: test -f SECURITY.md

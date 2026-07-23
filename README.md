@@ -15,15 +15,15 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/kiurakku/shok-monitor" title="Shok Monitor — 自有品牌产品">
-    <img src="./assets/icons/shok-monitor.png" width="56" height="56" alt="Shok Monitor" />
+  <a href="https://github.com/kiurakku/shok-monitor" title="Shok Monitor — 自有品牌产品" style="text-decoration:none;display:inline-block;line-height:0;">
+    <img src="./assets/icons/shok-monitor.png" height="56" alt="Shok Monitor" style="border:0;display:block;" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/kiurakku/umbrella-wallet" title="Umbrella Wallet — 自有品牌产品">
-    <img src="./assets/icons/umbrella-wallet.png" width="56" height="56" alt="Umbrella Wallet" />
+  <a href="https://github.com/kiurakku/umbrella-wallet" title="Umbrella Wallet — 自有品牌产品" style="text-decoration:none;display:inline-block;line-height:0;">
+    <img src="./assets/icons/umbrella-wallet.png" height="56" alt="Umbrella Wallet" style="border:0;display:block;" />
   </a>
   &nbsp;&nbsp;
-  <img src="./assets/icons/granite.png" width="56" height="56" alt="Granite" title="Granite — 自有开发平台品牌" />
+  <img src="./assets/icons/granite.svg" height="56" alt="Granite" title="Granite — 自有开发平台品牌" style="border:0;display:inline-block;vertical-align:middle;" />
 </p>
 
 <p align="center">
@@ -71,9 +71,9 @@
 ### 🛡️ 实验室与基础设施
 
 <p align="center">
-  <img src="./assets/icons/tor-browser.svg" width="48" height="48" alt="Tor Browser" title="Tor Browser — 匿名流量与 OPSEC 实验环境" />
+  <img src="./assets/icons/tor-browser.svg" height="48" alt="Tor Browser" title="Tor Browser — 匿名流量与 OPSEC 实验环境" style="border:0;display:inline-block;vertical-align:middle;" />
   &nbsp;&nbsp;
-  <img src="./assets/icons/ubiquiti.svg" width="48" height="48" alt="Ubiquiti" title="Ubiquiti — 实验室网络、边界与 C2 可见性" />
+  <img src="./assets/icons/ubiquiti.svg" height="48" alt="Ubiquiti" title="Ubiquiti — 实验室网络、边界与 C2 可见性" style="border:0;display:inline-block;vertical-align:middle;" />
 </p>
 
 <p align="center">
