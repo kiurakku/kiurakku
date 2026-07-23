@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:3d1f1f&height=130&section=header&text=Cloud9%27s&fontSize=42&fontColor=ff6b6b&textAlignY=40&animation=twinkling" alt="the fear" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:3d1f1f&height=130&section=header&text=the%20fear&fontSize=42&fontColor=ff6b6b&textAlignY=40&animation=twinkling" alt="the fear" width="100%" />
 </div>
 
 <p align="center">
@@ -35,12 +35,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=FF6B6B&center=true&vCenter=true&width=920&lines=Malware+Analyst+%7C+viruses+%26+attack+chains;Reverse+Engineering+%7C+Ghidra+%C2%B7+IDA+Pro+%C2%B7+x64dbg;Threat+hunting+%7C+IOC+%C2%B7+malware+families+%C2%B7+network+forensics" alt="Typing animation" />
 </p>
-
-### 🔭 战绩总览
-
-| GitHub 统计数据 | 连续贡献 |
-| :---: | :---: |
-| <img height="165" src="https://github-readme-stats.vercel.app/api?username=kiurakku&show_icons=true&theme=tokyonight&hide_border=true&hide_title=false&custom_title=Cloud9&rank_icon=github" alt="GitHub stats" /> | <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=kiurakku&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Contribution streak" /> |
 
 ### 🏆 荣誉奖杯
 
