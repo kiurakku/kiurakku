@@ -18,9 +18,9 @@ jobs:
           grep -q "恶意软件分析师\|Malware Analyst" README.md
           grep -q "研究方向\|Напрями роботи" README.md
           grep -q "Ghidra" README.md
-          test -f assets/icons/shok-monitor.png
-          test -f assets/icons/umbrella-wallet.png
-          test -f assets/icons/granite.svg
+          test -f assets/icons/shok-icon.jpg
+          test -f assets/icons/umbrella-icon.svg
+          test -f assets/icons/granite-logo.svg
           test -f assets/icons/tor-browser.svg
 
       - name: Security policy present

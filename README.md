@@ -14,20 +14,16 @@
 
 </div>
 
-<p align="center">
-  <a href="https://github.com/kiurakku/shok-monitor" title="Shok Monitor — 自有品牌产品" style="text-decoration:none;display:inline-block;line-height:0;">
-    <img src="./assets/icons/shok-monitor.png" height="56" alt="Shok Monitor" style="border:0;display:block;" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/kiurakku/umbrella-wallet" title="Umbrella Wallet — 自有品牌产品" style="text-decoration:none;display:inline-block;line-height:0;">
-    <img src="./assets/icons/umbrella-wallet.png" height="56" alt="Umbrella Wallet" style="border:0;display:block;" />
-  </a>
-  &nbsp;&nbsp;
-  <img src="./assets/icons/granite.svg" height="56" alt="Granite" title="Granite — 自有开发平台品牌" style="border:0;display:inline-block;vertical-align:middle;" />
-</p>
+<table align="center" cellpadding="0" cellspacing="0" border="0">
+  <tr>
+    <td align="center" valign="middle" width="80"><img src="./assets/icons/shok-icon.jpg" height="52" alt="Shok Monitor" /></td>
+    <td align="center" valign="middle" width="80"><img src="./assets/icons/umbrella-icon.svg" height="52" alt="Umbrella Wallet" /></td>
+    <td align="center" valign="middle" width="80"><img src="./assets/icons/granite-logo.svg" height="52" alt="Granite" /></td>
+  </tr>
+</table>
 
 <p align="center">
-  <sub><b>Shok Monitor</b> · <b>Umbrella Wallet</b> · <b>Granite</b> — 自有品牌与产品线：监控、钱包与开发平台，统一生态。</sub>
+  <sub><a href="https://github.com/kiurakku/shok-monitor"><b>Shok Monitor</b></a> · <a href="https://github.com/kiurakku/umbrella-wallet"><b>Umbrella Wallet</b></a> · <b>Granite</b> — 自有品牌与产品线：监控、钱包与开发平台，统一生态。</sub>
 </p>
 
 ### 🫠 关于我
@@ -70,11 +66,12 @@
 
 ### 🛡️ 实验室与基础设施
 
-<p align="center">
-  <img src="./assets/icons/tor-browser.svg" height="48" alt="Tor Browser" title="Tor Browser — 匿名流量与 OPSEC 实验环境" style="border:0;display:inline-block;vertical-align:middle;" />
-  &nbsp;&nbsp;
-  <img src="./assets/icons/ubiquiti.svg" height="48" alt="Ubiquiti" title="Ubiquiti — 实验室网络、边界与 C2 可见性" style="border:0;display:inline-block;vertical-align:middle;" />
-</p>
+<table align="center" cellpadding="0" cellspacing="0" border="0">
+  <tr>
+    <td align="center" valign="middle" width="72"><img src="./assets/icons/tor-browser.svg" height="44" alt="Tor Browser" title="Tor Browser" /></td>
+    <td align="center" valign="middle" width="72"><img src="./assets/icons/ubiquiti.svg" height="44" alt="Ubiquiti" title="Ubiquiti" /></td>
+  </tr>
+</table>
 
 <p align="center">
   <sub><b>Tor Browser</b> — 隔离场景、匿名信道验证与 malware-lab 中的 OPSEC 演练。<br/>
