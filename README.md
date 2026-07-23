@@ -41,18 +41,6 @@
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=FF6B6B&center=true&vCenter=true&width=920&lines=Malware+Analyst+%7C+viruses+%26+attack+chains;Reverse+Engineering+%7C+Ghidra+%C2%B7+IDA+Pro+%C2%B7+x64dbg;Threat+hunting+%7C+IOC+%C2%B7+malware+families+%C2%B7+network+forensics" alt="Typing animation" />
 </p>
 
-### 🔭 概览
-
-| GitHub stats | Streak |
-| :---: | :---: |
-| <img height="165" src="https://github-readme-stats.vercel.app/api?username=kiurakku&show_icons=true&theme=tokyonight&hide_border=true&hide_title=false&custom_title=the+fear&rank_icon=github" alt="GitHub stats" /> | <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=kiurakku&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Contribution streak" /> |
-
-### 🏆 荣誉奖杯
-
-<p align="center">
-  <img src="https://github-profile-trophy-omega.vercel.app/?username=kiurakku&theme=onedark&column=4&no-frame=true&margin-w=10&margin-h=10" alt="GitHub trophies" />
-</p>
-
 ---
 
 ### 🔎 研究方向
